@@ -4,6 +4,37 @@
 
 Yöntem. 28 slaytın tamamını okudum. Metin katmanı olan slaytları metinden, görsel olan dört slaytı (14, 15, 26, 27) ekran görüntüsünden inceledim. Slayt 27'deki Arçelik tablosunun küçük puntolu hücrelerini okuyamadım, orada yalnızca okunabilen başlıkları ve sütun yapısını kullandım. BRSAN tarafında `BRSAN_Report_Final_20pages_v5.pdf` (rapor sayfa 9 ve 10'u görsel olarak da inceledim) ve `BRSAN_29.xlsx` (en güncel Excel, 22 ile birebir aynı dosya) kullanıldı. Rapordaki risk ve değerleme rakamlarını Excel'deki hücrelerle eşleştirdim, eşleşmeyenleri ayrıca listeledim (Bölüm IV.D). Rakamları kendim yeniden hesapladım. Hesaplar raporun ve modelin iç tutarlılığını sınar, KAP verisiyle karşılaştırmadım. Hiçbir dosyaya dokunmadım. Doğrulayamadığım yerleri "doğrulanamadı" diye işaretledim.
 
+## 0. Önce bunu oku (1 sayfa)
+
+**Bu dosya ne?** Sezan'ın Risks ve ESG sunumu. Aşağıda önce kurallar, sonra BRSAN raporumuzda ne yapacağımız var. Geri kalanı ayrıntı, isteyen okur.
+
+**Bu dosyadan öğrenmen gereken kurallar**
+
+1. **Risk bölümünün yönü tavsiyeye bağlı:** BUY ise aşağı yönlü, SELL ise **yukarı yönlü** riskler yazılır, HOLD ise ikisi de. Risk, "tavsiyem nasıl yanlış çıkar" sorusunun cevabıdır.
+2. **Risk bölümü bir sayfayı geçmesin.** Örnekler 2–4 satırlık paragraflar.
+3. **Her risk modele bağlı olsun:** satış büyümesi, marj, iskonto oranı, kur, düzenleme gibi bir varsayımdan sapma olarak yazılsın.
+4. **ESG risk yönetimi için yapılır, itibar için değil.** En önemli ESG konusu yönetim kurulu hesap verebilirliği.
+5. **ESG, değerlemeye bağlanmalı:** iskonto oranı, çarpan, tahmin ya da senaryo düzeltmesiyle. Sadece "karışık" demek yetmez.
+6. **Veri bulunamıyorsa şirkete soru gönder.** Slayt 17 bunu açıkça öneriyor.
+
+**BRSAN raporunda yapacaklarımız (önem sırasıyla)**
+
+1. **Risk bölümüne "faiz indirimi" riskini ekle.** Raporun kendi rakamları indirim beklentisini gösteriyor (politika faizi %37, 10 yıllık getiri %32,8) ve SELL gerekçemiz bu getiriye dayanıyor.
+2. **Valuation'daki "SELL orta noktada başlar" cümlesini düzelt.** Kendi tablomuz orta noktayı (566 TL, −%12,5) HOLD yapıyor. SELL için rehberliğin alt ucu gerekiyor.
+3. **ESG'yi değere bağla.** 1x EV/FAVÖK farkı hisse başına yaklaşık 58 TL. Peer çarpanlarında sadece %5,5'lik bir artış SELL'i HOLD'a çeviriyor, bunu risk bölümüne yaz.
+4. **Risk bölümünden SELL'i güçlendiren riskleri ayır** (şirkete özgü risk satırı ve son paragraf).
+5. **Excel temizliği:** Risk senaryo değerlerinin (498, 566, 638, 418, 372) hücresi yok, bayat notlar var.
+
+**Hocaya sorulacak en önemli 3 soru**
+
+1. SELL'de, SELL'i güçlendiren riskleri ayrı paragrafta yazmak kabul edilir mi?
+2. ESG bölümünde değere bağlı bir düzeltme mi beklenir, nitel değerlendirme yeterli mi?
+3. Tavsiye eşiği ±%15 iken SELL'in marjı sadece 4,8 puan. Eşik TL'nin yüksek faiz ortamında yeniden mi kalibre edilmeli?
+
+---
+
+# Ayrıntı (isteyen okur)
+
 ---
 
 ## I. Belgenin kimliği ve bağlamı

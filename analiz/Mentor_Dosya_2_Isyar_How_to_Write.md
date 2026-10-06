@@ -4,6 +4,41 @@
 
 Yöntem. 20 slaytın tamamını okudum. Görsel olan üç slaytı (5, 8, 19) ekran görüntüsünden inceledim. Slayt 5'teki dört ön sayfa örneğinin küçük puntolu iç metnini okuyamadım, orada yalnızca başlıkları ve görünen tavsiye kutularını kullandım. BRSAN tarafında `BRSAN_Report_Final_20pages_v5.pdf` ve `BRSAN_29.xlsx` (en güncel Excel) kullanıldı. Slayt 8 ve 19'daki örnek finansal tabloları kalem kalem yeniden hesapladım, BRSAN rakamlarını Excel hücrelerinden yeniden ürettim. Hesaplar iç tutarlılığı sınar, KAP verisiyle karşılaştırmadım. Hiçbir dosyaya dokunmadım. Doğrulayamadığımı "doğrulanamadı" diye işaretledim.
 
+## 0. Önce bunu oku (1 sayfa)
+
+**Bu dosya ne?** Hocanın rapor yazım kuralları (İşyar sunumu). Aşağıda önce kurallar, sonra BRSAN raporumuzda ne yapacağımız var. Geri kalanı ayrıntı, isteyen okur.
+
+**Bu dosyadan öğrenmen gereken 8 kural**
+
+1. **Rapor bir "satış" belgesidir.** İlk sayfada sonuç olur (tavsiye, hedef fiyat, neden), bilgi sonra gelir.
+2. **Ön sayfada şunlar olur:** tavsiye, hedef fiyat, yükseliş yüzdesi, çarpan tablosu, fiyat-endeks grafiği. İlk cümle "neden" ve bir sayı verir, yöntem anlatmaz.
+3. **Investment Summary en önemli bölümdür.** İki soruya cevap verir: hisse neden yanlış fiyatlanmış, ve piyasayı ne yeniden fiyatlatacak (katalizör).
+4. **Geleceği yaz, geçmişi değil.** Hisse tahminler için alınır. Her tahminin yanına "neden" yaz.
+5. **"Uzmanlar şunu bekliyor" yazma.** Kendi görüşünü ve gerekçesini yaz.
+6. **Tahmin tabloları, emsal tablosu ve DCF ana metinde olur.** "Appendix'e bak" deme.
+7. **Üslup:** "we estimate" de, "our team" deme. Ünlü anma. Taslak ya da iç not bırakma.
+8. **Tahmin tabloları birbirine bağlı olur:** gelir tablosu, bilanço ve nakit akışı birbirini tutar.
+
+**BRSAN raporunda yapacaklarımız (önem sırasıyla)**
+
+1. **Hedef fiyatın ne olduğuna karar ver.** Şu an 519 TL üç farklı isimle geçiyor. Taban değişince sonuç değişiyor: 519 SELL, 12 ay sonraki taban 715 TL ve HOLD. Tek terim seç ve ne olduğunu yaz.
+2. **Katalizör paragrafı ekle.** İçeriği zaten var (çeyrek sonuçları, Section 232'nin bitişi, Holding'in pay satışı), ama risk sayfasında.
+3. **Ön sayfaya çarpan ve FCF satırlarını, fiyat grafiğini ekle.** Temettü verimi %0, FCF verimi negatif. Bu SELL'i destekliyor.
+4. **2027F gelir büyümesi için "neden" yaz ve kur varsayımını açıkla.** TL ve USD modelleri yılda yalnızca %6–7 TL değer kaybı ima ediyor, oysa raporun kendi enflasyon rakamı %28.
+5. **Industry'ye kendi tahminimizi ekle.** Şu an yalnızca "Grand View %6" gibi dış kaynak var.
+6. **Taslak notlarını temizle.** Yedi "the team" cümlesi ve beş "doğrulanacak" işareti var.
+7. **Tahmin bilançosundaki dengeleyici kalemi çöz ya da bilançoyu rapordan çıkar.**
+
+**Hocaya sorulacak en önemli 3 soru**
+
+1. Hangi puan tablosu geçerli (2020: ESG 5 puan, güncel: ESG 15 puan)?
+2. Hedef fiyat 12 aylık ileri değer mi, ve tavsiye eşiği nasıl belirleniyor?
+3. Tahmin tabloları ana metinde mi olmalı, 10 sayfada neyden vazgeçeriz?
+
+---
+
+# Ayrıntı (isteyen okur)
+
 ---
 
 ## I. Belgenin kimliği ve bağlamı
