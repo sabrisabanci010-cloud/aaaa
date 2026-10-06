@@ -320,7 +320,7 @@ Bu belgenin değerleme içeriği yok, ama risk bölümünün dayandığı değer
 | 2026F çarpanları | 11,9x EV/FAVÖK, 28,0x F/K | 99,1 / 8,3 = 11,94 ✓, 91,7 / 3,3 = 27,8 (rapor 28,0, küçük yuvarlama farkı) |
 | Prim | EV/FAVÖK %23, F/K %87 | 11,9 / 9,7 = +%22,7 ✓, 28,0 / 14,9 = +%87,9 ✓ |
 
-Yeni bir bilgi: hedef fiyat olan 519 TL'de piyasa değeri yaklaşık 73,6 milyar TL ve EV yaklaşık 81,0 milyar TL. Buna göre 519 TL'de BRSAN yine de EV/FAVÖK'te 9,75x (emsal medyanı 9,66x), F/K'de 22,3x (medyan 14,9x, hâlâ %50 prim) ve EV/Satış'ta 0,93x (medyan 1,22x, %24 iskonto) işlem görür. Üç çarpan hedef fiyatta bile farklı hikâye anlatıyor. İşyar'ın TAV örneğindeki "hedef fiyatta bile hisse emsallerine göre şu konumda" cümlesi bu tabloyla yazılabilir.
+Yeni bir bilgi: hedef fiyat olan 519 TL'de piyasa değeri yaklaşık 73,6 milyar TL ve EV yaklaşık 81,0 milyar TL. Buna göre 519 TL'de BRSAN yine de EV/FAVÖK'te 9,75x (emsal medyanı 9,66x), F/K'de 22,5x (medyan 14,9x, hâlâ %50 prim) ve EV/Satış'ta 0,93x (medyan 1,22x, %24 iskonto) işlem görür. Üç çarpan hedef fiyatta bile farklı hikâye anlatıyor. İşyar'ın TAV örneğindeki "hedef fiyatta bile hisse emsallerine göre şu konumda" cümlesi bu tabloyla yazılabilir.
 
 Bir not: bu hesaplar yalnızca iç tutarlılığı sınar. Net borcu (7,39 milyar TL), hisse sayısını (141.771.582) ve emsal çarpanlarını KAP ya da piyasa verisiyle yeniden doğrulamadım. Hisse sayısı için olası geri alınmış pay (treasury share) düzeltmesi hâlâ kontrol edilmedi (Dosya 6 öncesi KAP'tan bakılması gerekir).
 
