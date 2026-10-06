@@ -1,4 +1,4 @@
-# Mentor Dosya 1/7: Derinlemesine İnceleme
+# Mentor Dosya 1/9: Derinlemesine İnceleme
 
 **Risks and ESG Sections of Research Reports** (Emre Sezan, CFA, CMT, CFA Society Istanbul, 31 Ekim 2020, 28 slayt)
 
@@ -423,4 +423,4 @@ Risks'e Mavi ile aynı payı ayırmışız (0,9–0,95), ESG'ye Mavi'den yarım 
 
 Not: Dosya 2'ye (8/10) ve Dosya 3'e (4/10 rapor, 6,5/10 referans) kıyasla bu belge, bir kural kitabına en yakın olanı. Ama kuralların sayısı az (Risks için bir slayt, ESG için sıfır puan kuralı), bu yüzden referans değeri Dosya 2'den bir puan yüksek ama kapsamı dar.
 
-Devam edip Dosya 4'e (Şişecam, Hacettepe) geçeyim mi?
+Devam edip Dosya 2'ye (İşyar, How to write an equity research report) geçeyim mi?
