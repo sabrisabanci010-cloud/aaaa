@@ -47,7 +47,7 @@ Yapılacaklar:
 
 - **Kanıt tablosu.** Rapordaki her rakam için satır: iddia, değer, Excel adresi veya kaynak ve sayfa.
 - **Soru-cevap.** Summary için 5, Industry için 5 soru; cevaplar 2-3 cümle, rakamlı.
-- **Kaynak listesi: 1 sayfa** (Harvard).
+- **Kaynak listesi** (Harvard).
 - **Excel Değişiklik Raporu.** Fiyat serisi, ön sayfa çarpanları, rehberlik satırı için Excel'de ne değişmeli.
 
 **Oğuz toplam.**
