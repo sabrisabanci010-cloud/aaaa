@@ -2,8 +2,22 @@
 
 Kaynak model: `BRSAN_22_6_1.xlsx` (tek model, herkes bunun üzerinden yürür). Resmi puan tablosu: 2026-27 kuralları, Appendix D. Business Description'ı ben yazıyorum, Financial Analysis bende, Valuation ayrı iki kişide. Aşağıdaki kalan 55 puan üçe bölündü.
 
-| Kişi | Bölüm | Puan | Sayfa payı |
+| Kişi | Bölüm | Puan | Sayfa (ana metin) |
 |---|---|---|---|
+| **A** | Investment Summary + ön sayfa | 15 | 1,3 |
+| **A** | Industry Overview & Competitive Positioning (**bütün bölüm, bölünmez**) | 10 | 1,2 |
+| **B** | Investment Risks | 15 | 1,3 |
+| **B** | Excel Değişiklik Listesi'nin birleştirilmesi (aşağıda) | — | — |
+| **C** | ESG | 15 | 1,0 |
+| **C** | Ortak işler: CFA kapağı, Appendix B (yapay zekâ), atıf/kaynakça, sunum şablonu | — | Appendix |
+
+**Toplam sayfa planı (ana metin 10 sayfa, kapak hariç):** Summary + ön sayfa 1,3 · Business 0,6 (ben) · Industry 1,2 · Financial 2,3 (ben) · Valuation 2,3 (2 kişi) · Risks 1,3 · ESG 1,0 = **10,0**. Resmi sınır en fazla 10 A4 sayfa ana metin + en fazla 10 A4 sayfa appendix; sınırı aşan rapor puan kaybeder. Sayfa payları kesin, taşan metin kısaltılır, Appendix'e atılmaz.
+
+**Appendix planı (en fazla 10 sayfa):** DCF tabloları ve duyarlılık 2,5 · Financial tabloları (gelir, bilanço, nakit akışı, oranlar) 2,5 · Peer tablosu 1 · Risk matrisi ve senaryolar 1 · ESG skor kartı 1 · Industry ek veri 0,5 · Kaynakça 1 · Appendix B yapay zekâ açıklaması 0,5.
+
+**Sayfa biçimi (tek standart, herkes aynı):** A4, kenar boşluğu 1,8 cm, Calibri 10 punto, satır aralığı tek, bölüm başlığı 12 punto kalın, paragraf arası 4 punto. Şekil/tablo yazısı 8 punto. Bir sayfada en fazla 2 şekil/tablo. Kelime sınırları: Summary ≈450, Industry ≈500, Risks ≈450, ESG ≈350 (tablolar ve şekiller dışında; sayfa payının geri kalanı onlara gidiyor). Biçimi ben son birleştirmede uygularım ama sayfa payını aşan metin kabul etmem.
+
+---|---|---|---|
 | **A** | Investment Summary + ön sayfa | 15 | ≈1,3 |
 | **A** | Competitive Positioning (Industry bölümünün ikinci yarısı) | ≈5 | ≈0,6 |
 | **B** | Investment Risks | 15 | ≈1,3 |
@@ -33,13 +47,13 @@ Sayfa payları 10 sayfalık ana metne göre. Kalan sayfalar: Financial ≈2,3, V
 10. **Yapay zekâ kullandıysan** 4 cümle yaz (Appendix B için): nerede kullandın, çıktıyı nasıl doğruladın, ne yanlış çıktı, ne öğrendin. Kişi C birleştirir.
 11. **Q&A (20 puan).** Her kişi kendi bölümü için **5 muhtemel jüri sorusu + 2-3 cümlelik cevap** yazar. Sunumda herkes konuşacak (Team involvement 5 puan).
 
-**Teslim biçimi:** Google Doc ya da Word, bölüm başına tek dosya: `A_Summary.docx`, `A_Competitive.docx`, `B_Risks.docx`, `B_Industry.docx`, `C_ESG.docx`. Her dosyada sırayla: (1) rapor metni, (2) şekil/tablolar, (3) Kanıt Tablosu, (4) 5 Q&A, (5) AI notu.
+**Teslim biçimi:** Google Doc ya da Word, bölüm başına tek dosya: `A_Summary.docx`, `A_Industry.docx`, `B_Risks.docx`, `C_ESG.docx`. Her dosyada sırayla: (1) rapor metni, (2) şekil/tablolar, (3) Kanıt Tablosu, (4) 5 Q&A, (5) AI notu, (6) **Excel Değişiklik Raporu** (aşağıdaki şablon). Excel Değişiklik Raporu zorunludur.
 
 **Karar bekleyen iki şey** (ben hocaya soruyorum, siz yer tutucuyla yazın): hedef fiyat/tavsiye kuralı (şu an `Peers` ortalaması 519,29 TL, fiyat 647 TL, %−19,7) ve şirketle soru-cevap hakkı. Kural PDF'i yalnızca kamuya açık bilgiye izin veriyor; şirkete soru göndermeyin, cevap beklemeyin.
 
 ---
 
-## KİŞİ A: Investment Summary + ön sayfa (15) ve Competitive Positioning (≈5)
+## KİŞİ A: Investment Summary + ön sayfa (15) ve Industry Overview & Competitive Positioning (10)
 
 ### A-1. Ön sayfa (rakamlar donunca ama şablon hemen)
 
@@ -50,7 +64,7 @@ Resmi kural, ilk sayfada şunları ister: şirket adı, borsa, ticker, sektör, 
 - **Piyasa değeri** (647 × 141.771.582 hisse = ≈91,7 mlr TL), halka açık oran, yabancı payı (MKK VAP). Net borç Q2 2026: 7,39 mlr TL (`Peers` satır 24).
 - **Tek terim:** "target price" kullan. "Value estimate" ya da "present-value estimate" yazma.
 
-### A-2. Investment Summary (≤650 kelime)
+### A-2. Investment Summary (≈450 kelime + çarpan tablosu, ön sayfayla birlikte 1,3 sayfa)
 
 Hocaların tek ortak uyarısı: ilk cümlede tavsiye, hedef, **neden**, bir **sayı ya da katalizör**. Yapı:
 
@@ -64,17 +78,31 @@ Hocaların tek ortak uyarısı: ilk cümlede tavsiye, hedef, **neden**, bir **sa
 5. **"Hedef fiyatta bile hisse nerede" cümlesi:** 519 TL'de bile hisse hâlâ medyanın üstünde mi altında mı (Valuation sahipleri rakamı verir).
 6. **Son gelişmeler satırı:** H1 2026 gerçekleşen / bizim tahmin / piyasa beklentisi.
 
-### A-3. Competitive Positioning (≤280 kelime + 1 tablo)
+### A-3. Industry Overview & Competitive Positioning (10 puan, ≈500 kelime, 1,2 sayfa)
+
+**Bu bölüm tek kişide (A).** Rapor sırasında Industry, Summary'den önce gelir; A önce bunu yazar çünkü rakamlara bağımlılığı az.
+
+**Industry Overview kısmı:**
+
+- **Kendi tahminimizi yaz** (dış kaynak cümlesi değil): "Because over two-thirds of US gas pipeline capacity additions originate in the Permian, we expect BRSAN's US infrastructure revenue to grow X% in 2026 and Y% in 2027, driven by …". Kaynakları: EIA (boru hattı kapasitesi), Baker Hughes sondaj sayısı, ABD enerji bakanlığı projeleri, BRSAN'ın faaliyet raporundaki sipariş defteri. Şu an "Grand View ~%6" gibi dış rakam cümlesi var, onu "biz tahmin ediyoruz" cümlesine çevir.
+- **Büyüme sürücüleri:** numaralı liste, her biri tek cümle + kaynak.
+- **Sipariş defteri çelişkisi:** raporda "en az 2,6 mlr USD", SWOT'ta "yaklaşık 3,0 mlr USD" geçiyor. Birini seç, kaynağını (faaliyet raporu sayfası) yaz, öteki yerde düzelt.
+- **Türkiye boru ihracatı** (TÜİK / ilgili dernek verileri): BRSAN'ın ihracat geliri 2022'de 465 mn USD → 2025'te 219 mn USD (`Segment & Guidance` satır 18-20): Türkiye çıkışlı ihracat daralıyor, büyüme ABD yerel üretimden geliyor. Bu önemli bir bulgu, vurgula.
+- **Segment dalgası:** Enerji/OCTG gelirinin 2023 zirvesi (721 mn) → 2024 çöküş (389 mn) FAVÖK marjı çöküşünü açıklıyor (`Segment & Guidance` satır 22-24). Tek paragrafta anlat: sektör fiyat döngüsü.
+
+**Q&A (Industry):** "Büyüme tahmininiz nereden?", "ABD'de pay ne?", "Permian yavaşlarsa?", "İhracat neden düşüyor?"
+
+**Competitive Positioning kısmı:**
 
 "BRSAN rakiplere göre nerede" tablosu, 5-6 satır: BRSAN, Tenaris, Vallourec, Jindal SAW, Maharashtra Seamless, Ereğli. Sütunlar: ürün (dikişli/dikişsiz/kaynaklı), EV/Satış, EV/FAVÖK, F/K, Net Borç/FAVÖK, önemli not (`Peers` satır 4-14 doğrudan). Altına 3 cümle: BRSAN dikişsiz OCTG değil kaynaklı büyük çaplı boru ağırlıklı, bu yüzden en yakın emsal Jindal SAW; Tenaris'e prim gerekçesi yok; Ereğli düz çelik, yalnızca ülke çarpanı referansı (`Peers` satır 12, 41). Segment payı: Altyapı %44, Enerji/OCTG %22, Sanayi %23, Otomotiv %11 (`Segment & Guidance` satır 13-16). **Kapasite 1,7 Mt** ve **ABD pazar payı** için kamuya açık kaynak bul (faaliyet raporu s.); bulamazsan "n/a, not disclosed" yaz, uydurma.
 
-**Q&A (A):** "Neden SELL, fiyat zaten düşmüş mü?", "519 TL'yi nasıl buldunuz?", "DCF neden bu kadar düşük?", "Katalizörünüz ne?", "Hedefe 12 ayda ulaşılır mı?"
+**Q&A (Summary):** "Neden SELL, fiyat zaten düşmüş mü?", "519 TL'yi nasıl buldunuz?", "DCF neden bu kadar düşük?", "Katalizörünüz ne?", "Hedefe 12 ayda ulaşılır mı?"
 
 ---
 
-## KİŞİ B: Investment Risks (15) ve Industry Overview (≈5)
+## KİŞİ B: Investment Risks (15) ve Excel Değişiklik Raporu birleştirme
 
-### B-1. Risks (≤650 kelime, risk matrisi + 5 mini şekil değil, 1 matris + 1 duyarlılık tablosu)
+### B-1. Risks (≈450 kelime + 1 matris + 1 duyarlılık tablosu, 1,3 sayfa)
 
 SELL tavsiyesinde riskler **yukarı yönlüdür**: yanılırsak, hisse yükselirse neden? (Sezan kuralı.) Yapı:
 
@@ -90,21 +118,11 @@ SELL tavsiyesinde riskler **yukarı yönlüdür**: yanılırsak, hisse yükselir
 
 **Q&A (B):** "Sizi en çok ne yanıltır?", "Faiz inerse hedefiniz ne olur?", "Section 232 kalkarsa?", "Marj %10 olursa?", "Hangi riski göz ardı ettiniz?"
 
-### B-2. Industry Overview (≤300 kelime + 1 şekil)
-
-- **Kendi tahminimizi yaz** (dış kaynak cümlesi değil): "Because over two-thirds of US gas pipeline capacity additions originate in the Permian, we expect BRSAN's US infrastructure revenue to grow X% in 2026 and Y% in 2027, driven by …". Kaynakları: EIA (boru hattı kapasitesi), Baker Hughes sondaj sayısı, ABD enerji bakanlığı projeleri, BRSAN'ın faaliyet raporundaki sipariş defteri. Şu an "Grand View ~%6" gibi dış rakam cümlesi var, onu "biz tahmin ediyoruz" cümlesine çevir.
-- **Büyüme sürücüleri:** numaralı liste, her biri tek cümle + kaynak.
-- **Sipariş defteri çelişkisi:** raporda "en az 2,6 mlr USD", SWOT'ta "yaklaşık 3,0 mlr USD" geçiyor. Birini seç, kaynağını (faaliyet raporu sayfası) yaz, öteki yerde düzelt.
-- **Türkiye boru ihracatı** (TÜİK / ilgili dernek verileri): BRSAN'ın ihracat geliri 2022'de 465 mn USD → 2025'te 219 mn USD (`Segment & Guidance` satır 18-20): Türkiye çıkışlı ihracat daralıyor, büyüme ABD yerel üretimden geliyor. Bu önemli bir bulgu, vurgula.
-- **Segment dalgası:** Enerji/OCTG gelirinin 2023 zirvesi (721 mn) → 2024 çöküş (389 mn) FAVÖK marjı çöküşünü açıklıyor (`Segment & Guidance` satır 22-24). Tek paragrafta anlat: sektör fiyat döngüsü.
-
-**Q&A (B-2):** "Büyüme tahmininiz nereden?", "ABD'de pay ne?", "Permian yavaşlarsa?", "İhracat neden düşüyor?"
-
 ---
 
 ## KİŞİ C: ESG (15) ve ortak işler
 
-### C-1. ESG (≤500 kelime + 2 tablo)
+### C-1. ESG (≈350 kelime + 2 tablo, 1,0 sayfa)
 
 Sunumda da 10 puan: aynı içerik slayta dönecek.
 
@@ -129,6 +147,49 @@ Sunumda da 10 puan: aynı içerik slayta dönecek.
 
 ---
 
+## Excel Değişiklik Raporu (A, B, C hepsi yazar; B birleştirir)
+
+Excel'e kimse dokunmaz. Her kişi kendi bölümünü yazarken modelde **ne değişmeli** görürse yazar. Rapor ayrı iki bölümdür: **Financial (bende)** ve **Valuation (iki kişide)**. Şablon, her satır:
+
+`Sayfa!hücre | şu an ne var | ne olmalı | neden (kaynak) | hangi rapor bölümünü etkiliyor | öncelik (1 = rakam değişir, 2 = açıklama/etiket, 3 = süs)`
+
+Kurallar: önerini rakamla ver ("margin 9,5% → 8,0%" gibi), sadece "yanlış" yazma. Yeni veri gerekiyorsa kaynağı yaz. Emin değilsen "doğrulanmalı" diye işaretle, uydurma. **B** bu üç raporu birleştirip aynı hücre için gelen çakışan önerileri tek satıra indirir, ben ve Valuation sahipleri o listeyi uygularız.
+
+### Önceden bildiğimiz değişiklikler (kontrol et, doğruysa raporuna yaz, eksik olanı sen ekle)
+
+**Financial (bende):**
+
+| Yer | Sorun / değişiklik |
+|---|---|
+| `Ratios (DuPont)` satır 15, 18 | 2024 efektif vergi −%259 çıkıyor ve ROIC %15,3 yazıyor; yasal vergiyle ROIC ≈ %3,2 olmalı. |
+| `Ratios (DuPont)` H1 2026 sütunu | Yıllıklandırılmamış (ROE %4,1 → ≈%8,3; ROIC %3,7 → ≈%7,3). |
+| `Forecast` satır 60-74 | Tahmin bilançosunda dengeleyici kalem (satır 73) 2026F ≈ 0,95 mlr TL → 2033F ≈ 12,5 mlr TL büyüyor; borç sabit (satır 67-68), temettü yok. Ya gerçek bağla (temettü, borç hareketi) ya raporda gösterme. |
+| `Forecast` satır 7 | Gelir büyümesi (%22,5 / %20 / %14,4 / %11,3 …) için "neden" yok: hacim × fiyat ayrımı ekle (rehberlik hacmi 1,15-1,25 Mt, 2025'te 1,31 Mt). |
+| `Forecast` satır 10 | Finansman gideri gelirin sabit %1,5'i; H1 2026 gerçekleşen ≈%0,9. Borç tutarı sabit tutulurken oran sabit mi olmalı? |
+| `Forecast` / `Enterprise Value (DCF - Real)` | TL modeli yılda yalnızca ≈%6-7 TL değer kaybı ima ediyor; enflasyon varsayımı %28 / %15 / %9 / %6 (Real DCF satır 11). Kur varsayım satırı ekle ve tutarlılığı göster. |
+| `Forecast` satır 2, 3, 7-15, 81 | "[DRAFT]", "AI-drafted … team should review" gibi iç etiketler kalkmalı. |
+| Yeni | Çeyreklik tablo (Q1 2025 – Q2 2026), nakit dönüşümü (işletme nakit akışı / FAVÖK), faiz karşılama (2024: 0,83x; H1 2026: 6,42x), EPS büyümesi (2025A 8,97 → 2026F 23,12 TL), borç ve nakdin para birimi dağılımı (net döviz pozisyonu). |
+
+**Valuation (iki kişide):**
+
+| Yer | Sorun / değişiklik |
+|---|---|
+| Yeni blok (`Enterprise Value (DCF)` satır 56-74 altı veya yeni sayfa) | Hedef fiyat kuralı: bugünkü değer 519,29 TL, 12 aylık hedef = 519,29 × (1 + Ke %36,4) ≈ 708 TL, beklenen getiri ≈ +%9,5, tavsiye eşiği. Kural kararına göre (AK / BNP ±%10 / ±%15) SELL ya da HOLD çıkıyor. |
+| `Peers (Comps)` A35, `WACC` A44, A48, A58, `Sensitivity` A11, `Enterprise Value (DCF)` A41, A45 | Bayat metin notları (yukarıda, madde 4). Hücrelerle uyumlu yeniden yaz. |
+| `Peers (Comps)` satır 14, 18-24 | BRSAN cari çarpanlar Fintables TTM, hedef uygulaması 2026F NTM; emsal çarpanlarının da trailing mi forward mı olduğunu etiketle. |
+| `Peers (Comps)` yeni satır | Ereğli'siz değer (≈481 TL) ve peer çarpanı ±%5,5 / ±%23 duyarlılığı; iki yönlü prim/iskonto tablosu (BRSAN global 4'e göre EV/FAVÖK +%49, F/K +%98; Ereğli'ye göre −%4 / −%19). |
+| `Enterprise Value (DCF)` satır 25-28 | Net borç köprüsünde kira yükümlülüğü (IFRS 16), geri alınan pay ve azınlık payı yok. KAP'tan doğrula (kira yükümlülüğü hedefi yaklaşık −%1,3 / −6,6 TL oynatır). |
+| `WACC` satır 5, 27 | Nominal Kd %11,0 < Rf %32,6; TL borç maliyeti kullan ya da gerekçeyi yaz. D/V ağırlığı sabit (%15,5) ama kaldıraç düşüyor: yıl yıl göster ya da gerekçelendir. |
+| `Enterprise Value (DCF)` satır 5-32 | Nominal Gordon DCF −16 TL (negatif), exit multiple 104 TL, reel DCF 166 TL, USD DCF 230 TL: dört DCF çok dağınık. Hangisinin ana, hangisinin çapraz kontrol olduğunu ve neden 8 yıl seçildiğini yaz; negatif sonuç raporda açıklanmalı ya da çıkarılmalı. |
+| `Enterprise Value (DCF - USD)` | Bull senaryosu 1.230 TL aykırı, bear'de işletme sermayesi artefaktı, stub period eksik. |
+| `Sensitivity` satır 6-10 | WACC aralığı yalnızca %24-40; reel WACC ve Ke duyarlılığı yok; negatif hücreler açıklanmalı. FAVÖK marjı ±1 puan = ±42 TL (±%8,1) ve peer çarpanı +%5,5 = 550 TL cümleleri için hücre ekle. |
+| Yeni `Scenarios` sayfası | Raporda geçen Figure 47 (634), Figure 48 (143-567), Figure 53'ün dört satırı için hücre yok. |
+| `WACC` satır 14-15 | Beta 0,89 kaynağı ve dönemi, ERP / ülke riski kaynağı hücreye yazılmalı (kaynak yoksa jüri sorar). |
+
+Bu tablolar başlangıç listesi: **sen bölümünü yazarken ek bulduğunu ekle.** Örneğin A, fiyat serisi ve cari çarpanlarda Excel'in neyi göstermediğini; B, risk duyarlılıkları için hangi senaryo hücrelerinin eksik olduğunu; C, ESG'nin değer köprüsü için hangi hücrenin lazım olduğunu yazar.
+
+---
+
 ## Zamanlama (göreli günler)
 
 | Gün | Ne |
@@ -136,6 +197,7 @@ Sunumda da 10 puan: aynı içerik slayta dönecek.
 | 1-3 | Taslak 1: araştırma, tablolar, yer tutuculu metin. Bölüm başı kanıt tablosu başlasın. |
 | 3-5 | Rakamlar donar (Valuation + Financial). Hata Listesi kapanır. |
 | 5-8 | Taslak 2: yer tutucuları doldur, kelime sınırına indir. |
+| 5 | Excel Değişiklik Raporları teslim, B birleştirir; ben ve Valuation sahipleri uygular. |
 | 8-10 | Çapraz okuma: herkes bir başkasının bölümünü okur; C tutarlılık turunu yapar; ben Business'ı ve son birleştirmeyi yaparım. |
 
 Sormadan önce bu belgeyi ve Excel'deki ilgili sayfayı oku. Takıldığın yerde tahmin yürütme, Hata Listesi'ne ya da gruba yaz.
