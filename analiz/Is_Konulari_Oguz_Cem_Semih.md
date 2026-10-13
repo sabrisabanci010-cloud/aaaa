@@ -1,13 +1,14 @@
 # BRSAN: yapılması gerekenler (Oğuz, Cem, Semih)
 
-Model: `BRSAN_29_1.xlsx`. Rapor metni İngilizce. Sayfa aralıkları A4, min–max. Hücre adresleri sayfa adıyla birlikte verildi; rakamı Excel'deki **hücreden** al, hücre altındaki yazı notlarından değil (bazıları bayat).
+Model: `BRSAN_29_1.xlsx`. Rapor metni İngilizce. Sayfa sayısı kişi başına toplam, A4, min–max. Hücre adresleri sayfa adıyla birlikte verildi; rakamı Excel'deki **hücreden** al, hücre altındaki yazı notlarından değil (bazıları bayat).
 
 ---
 
 # OĞUZ
 
-## 1) Investment Summary ve ön sayfa (15 puan): 1–2 sayfa
+**Teslim edeceği belgenin toplam uzunluğu: 7–11 sayfa.**
 
+## 1) Investment Summary ve ön sayfa (15 puan)
 Yapılacaklar:
 
 - **Ön sayfanın üstüne resmi başlık alanlarını koy:** şirket adı, borsa, ticker, sektör, tavsiye (SELL), güncel fiyat ve tarihi, hedef fiyat ve % değişim. Güncel fiyat 647 TL (`WACC!B34`). Fiyat tarihini kesinleştir, her yerde aynı tarihi kullan.
@@ -24,8 +25,7 @@ Yapılacaklar:
 - **"Son gelişmeler" cümlesi yaz:** H1 2026 gerçekleşen, bizim tahmin, piyasa beklentisi.
 - **Tek terim kullan:** "target price". "Value estimate" ve "present-value estimate" yazma.
 
-## 2) Industry Overview and Competitive Positioning (10 puan): 1–2 sayfa
-
+## 2) Industry Overview and Competitive Positioning (10 puan)
 Bu bölüm bütünüyle Oğuz'da.
 
 Yapılacaklar:
@@ -40,25 +40,25 @@ Yapılacaklar:
 - **Kapasite (1,7 Mt) ve ABD pazar payını** kamuya açık kaynaktan doğrula. Bulamazsan "not disclosed" yaz, uydurma.
 - **Temizlik:** "assembler's assessment" etiketlerini kaldır, "the team's SWOT" cümlelerini "we" sesine çevir.
 
-## 3) Industry ek veri (appendix): 1 sayfa
-
+## 3) Industry ek veri (appendix)
 - İhracat/ithalat tablosu (TÜİK), sondaj sayısı serisi, proje listesi.
 
 ## 4) Oğuz'un ayrıca teslim edeceği belgeler
 
-- **Kanıt tablosu: 1–2 sayfa.** Rapordaki her rakam için satır: iddia, değer, Excel adresi veya kaynak ve sayfa.
-- **Soru-cevap: 1 sayfa.** Summary için 5, Industry için 5 soru; cevaplar 2-3 cümle, rakamlı.
+- **Kanıt tablosu.** Rapordaki her rakam için satır: iddia, değer, Excel adresi veya kaynak ve sayfa.
+- **Soru-cevap.** Summary için 5, Industry için 5 soru; cevaplar 2-3 cümle, rakamlı.
 - **Kaynak listesi: 1 sayfa** (Harvard).
-- **Excel Değişiklik Raporu: 1 sayfa.** Fiyat serisi, ön sayfa çarpanları, rehberlik satırı için Excel'de ne değişmeli.
+- **Excel Değişiklik Raporu.** Fiyat serisi, ön sayfa çarpanları, rehberlik satırı için Excel'de ne değişmeli.
 
-**Oğuz toplam: 7–11 sayfa.**
+**Oğuz toplam.**
 
 ---
 
 # CEM
 
-## 1) Investment Risks (15 puan): 1–2 sayfa
+**Teslim edeceği belgenin toplam uzunluğu: 6–7 sayfa.**
 
+## 1) Investment Risks (15 puan)
 SELL'de riskler yukarı yönlüdür (hisse yükselirse neden?). Bunu ilk cümlede söyle.
 
 Yapılacaklar:
@@ -77,26 +77,26 @@ Yapılacaklar:
 - **İzleme takvimi ekle** (4-5 satır): gösterge, tarih, yön (TCMB toplantıları, çeyrek sonuç tarihleri, Section 232 kararı).
 - **Yapma:** beş ayrı mini şekil koyma, "may/could" ile risk anlatma (olasılık ve TL etkisini yaz).
 
-## 2) Risk matrisi ve bear/bull senaryolar (appendix): 1 sayfa
-
+## 2) Risk matrisi ve bear/bull senaryolar (appendix)
 - Ayrıntılı risk matrisi (12-15 satır).
 - Bear/bull tablosu (`Forecast` satır 86-117): bear = büyüme -10 puan ve marj -2 puan, bull = +10 / +2. Gelir, FAVÖK, UFCF ve değer.
 
 ## 3) Cem'in ayrıca teslim edeceği belgeler
 
-- **Kanıt tablosu: 1 sayfa.**
-- **Soru-cevap: 1 sayfa.** 5 soru: "Sizi en çok ne yanıltır?", "Faiz inerse hedefiniz ne olur?", "Section 232 kalkarsa?", "Marj %10 olursa?", "Hangi riski göz ardı ettiniz?"
-- **Kaynak listesi: 1 sayfa.**
-- **Excel Değişiklik Raporu: 1 sayfa.** Senaryo ve risk duyarlılığı için Excel'de eksik hücreler.
+- **Kanıt tablosu.**
+- **Soru-cevap.** 5 soru: "Sizi en çok ne yanıltır?", "Faiz inerse hedefiniz ne olur?", "Section 232 kalkarsa?", "Marj %10 olursa?", "Hangi riski göz ardı ettiniz?"
+- **Kaynak listesi.**
+- **Excel Değişiklik Raporu.** Senaryo ve risk duyarlılığı için Excel'de eksik hücreler.
 
-**Cem toplam: 6–7 sayfa.**
+**Cem toplam.**
 
 ---
 
 # SEMİH
 
-## 1) ESG (15 puan): 1–2 sayfa
+**Teslim edeceği belgenin toplam uzunluğu: 11–15 sayfa.**
 
+## 1) ESG (15 puan)
 Yapılacaklar:
 
 - **ESG'yi değere bağla (en büyük açık):** 1x EV/FAVÖK farkı hisse başına yaklaşık 58,7 TL (üç yöntem ortalamasında yaklaşık 19,6 TL). Hücreyi Valuation'dan iste. Sonuç cümlesi: ya "ESG iskontosu uygulamıyoruz, çünkü …" ya da bir iskonto uygula; gerekçeyi rakamla yaz.
@@ -109,32 +109,25 @@ Yapılacaklar:
 - **Boş metrikleri doldur:** kaza oranı, çalışan devri, eğitim saati, su, atık: yalnızca kamuya açık sürdürülebilirlik raporundan; bulamazsan "not disclosed".
 - **Koru:** yönetişim ağırlığı (doğru önceliklendirme).
 
-## 2) ESG skor kartı (appendix): 1 sayfa
-
+## 2) ESG skor kartı (appendix)
 - Kriter, ağırlık, puan, kaynak; tam Sustainalytics/CDP tablosu.
 
-## 3) CFA kapak sayfası: 1 sayfa (10 sayfa limitine sayılmaz)
-
+## 3) CFA kapak sayfası
 - Appendix C şablonunu doldur. Vurgulanmış alanları doldur, logoya ve diğer kısımlara dokunma. Sonucu hocaya onaylat.
 
-## 4) Appendix B, yapay zekâ kullanımı: 1 sayfa
-
+## 4) Appendix B, yapay zekâ kullanımı
 - Dört kişinin AI notlarını birleştir (her kişi: nerede kullandı, nasıl doğruladı, yanlış çıkan örnek, ne öğrendi). "Team member 1-4" olarak yaz.
 
-## 5) Kaynakça (tüm rapor): 1–2 sayfa
-
+## 5) Kaynakça (tüm rapor)
 - Herkesin kaynak listesini tek alfabetik Harvard listesinde birleştir, tekrarları sil, sayfa numarası eksik olanı geri gönder. Aynı yazar-yıl iki kaynaksa 2025a, 2025b.
 
-## 6) Sunum iskeleti: 1 sayfa
-
+## 6) Sunum iskeleti
 - Slayt listesi, her slayt için süre, kim sunacak (herkes konuşmalı). Sunum puanları: Financial 20, Valuation 20, ESG 10, Presentation 20, Q&A 20, Team involvement 5, Materials 5.
 
-## 7) Soru-cevap matrisi: 1–2 sayfa
-
+## 7) Soru-cevap matrisi
 - Oğuz, Cem, Semih ve benim sorularım tek tabloda: soru, cevap veren, destek verecek kişi, cevaptaki ana rakam ve Excel adresi.
 
-## 8) Son tutarlılık raporu: 1–2 sayfa
-
+## 8) Son tutarlılık raporu
 - Rapordaki her rakamı Excel'e karşı kontrol et (hedef fiyat, çarpanlar, WACC, EPS, marj) ve tersini de.
 - Aynı rakamın farklı biçimde yazılıp yazılmadığına, terim tutarlılığına (target price, SELL, BRSAN), sayfa toplamına bak.
 - Yasak ifade tara: "the team", "draft", "TBD", `[[`.
@@ -142,8 +135,8 @@ Yapılacaklar:
 
 ## 9) Semih'in ayrıca teslim edeceği belgeler
 
-- **Kanıt tablosu: 1 sayfa.**
-- **Soru-cevap: 1 sayfa.** ESG için 5 soru: "ESG hedef fiyatı nasıl etkiliyor?", "CBAM'ın BRSAN'a maliyeti nedir?", "Yönetişim riski nedir?", "Neden iskonto uygulamadınız?", "Skor kartınız nasıl çıktı?"
-- **Excel Değişiklik Raporu: 1 sayfa.** ESG'nin değer köprüsü için Excel'de eksik hücre.
+- **Kanıt tablosu.**
+- **Soru-cevap.** ESG için 5 soru: "ESG hedef fiyatı nasıl etkiliyor?", "CBAM'ın BRSAN'a maliyeti nedir?", "Yönetişim riski nedir?", "Neden iskonto uygulamadınız?", "Skor kartınız nasıl çıktı?"
+- **Excel Değişiklik Raporu.** ESG'nin değer köprüsü için Excel'de eksik hücre.
 
-**Semih toplam: 11–15 sayfa.**
+**Semih toplam.**
