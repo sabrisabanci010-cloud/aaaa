@@ -26,7 +26,6 @@ Bu belgede **sayfa sayıları kişinin teslim edeceği iş** için verilmiştir 
 | | Soru-cevap | — | [Ç] | **1,0** |
 | | Kaynak listesi | — | [Ç] | **0,5** |
 | | Excel Değişiklik Raporu (kendi bölümü açısından) | — | [Ç] | **1,0** |
-| | **Birleşik** Excel Değişiklik Listesi (3 raporun birleşimi) | — | [Ç] | **2,0-3,0** |
 | | AI notu | — | [Ç] | **0,25** |
 | **Semih** | ESG | 15 | [R] ana metin | **1,0** |
 | | ESG skor kartı | — | [R] appendix | **1,0** |
@@ -219,9 +218,9 @@ Yapı (bu sırayla, başlık kullanma, alt başlık yalnızca "Catalysts" için)
 
 ---
 
-## 4. CEM: Investment Risks (15) ve birleşik Excel Değişiklik Listesi
+## 4. CEM: Investment Risks (15)
 
-**Toplam teslim:** [R] 1,3 + 1,0 appendix; [Ç] 7,75-8,75 sayfa. Cem'in işi Valuation sahiplerinin senaryo hücrelerine bağlı: Taslak 1'de metni yer tutucuyla yaz, rakamlı sütunu Taslak 2'de doldur.
+**Toplam teslim:** [R] 1,3 + 1,0 appendix; [Ç] 3,75 sayfa. Cem'in işi Valuation sahiplerinin senaryo hücrelerine bağlı: Taslak 1'de metni yer tutucuyla yaz, rakamlı sütunu Taslak 2'de doldur.
 
 ### 4.1. Risks (≈450 kelime + 1 matris + 1 duyarlılık tablosu, 1,3 sayfa)
 
@@ -249,12 +248,6 @@ SELL tavsiyesinde riskler **yukarı yönlüdür** (hisse yükselirse neden?). Bu
 - Kanıt Tablosu 1 sayfa; Q&A 1 sayfa; Kaynak listesi 0,5 sayfa; AI notu.
 - **Q&A:** "Sizi en çok ne yanıltır?", "Faiz inerse hedefiniz ne olur?", "Section 232 kalkarsa?", "Marj %10 olursa?", "Hangi riski göz ardı ettiniz?"
 - **Excel Değişiklik Raporu (kendi):** 1 sayfa: senaryo hücreleri, risk duyarlılığı için eksik hücreler.
-
-### 4.3. Birleşik Excel Değişiklik Listesi (2-3 sayfa, Cem'in özel işi)
-
-- Oğuz, Cem, Semih'in Excel Değişiklik Raporlarını (bölüm 6) toplar, **aynı hücre için gelen çakışan önerileri tek satıra indirir**, öncelik sırasına dizer (1 → 2 → 3).
-- Liste iki bölümden oluşur: **Financial (bende)** ve **Valuation (iki kişi)**; her satırın sahibi (kim uygular) yazılır.
-- Gün 5'te teslim. Ben ve Valuation sahipleri uygular; uyguladıkça "yapıldı / yapılmadı + neden" sütununu doldururuz.
 
 ---
 
@@ -292,7 +285,7 @@ SELL tavsiyesinde riskler **yukarı yönlüdür** (hisse yükselirse neden?). Bu
 
 ---
 
-## 6. Excel Değişiklik Raporu (Oğuz, Cem, Semih hepsi yazar; Cem birleştirir)
+## 6. Excel Değişiklik Raporu (Oğuz, Cem, Semih hepsi yazar, bana ayrı ayrı teslim eder)
 
 Excel'e kimse dokunmaz; kendi bölümünü yazarken modelde **ne değişmeli** görürse yazar. Rapor iki bölümdür: **Financial (bende)** ve **Valuation (iki kişi)**.
 
@@ -341,7 +334,7 @@ Satır şablonu: `Sayfa!hücre | şu an ne var | ne olmalı (rakamla) | neden / 
 | Gün | Ne |
 |---|---|
 | 1-3 | **Taslak 1:** Oğuz Industry'yi bitirir; Cem risk listesi ve izleme göstergelerini; Semih ESG araştırması, emsal tablosu, kapak ve kaynakça iskeleti. Kanıt tablolarının kaynak sütunları. |
-| 3-5 | Rakamlar donar (Valuation + Financial). Excel Değişiklik Raporları gün 5'te teslim, Cem birleştirir; ben ve Valuation sahipleri uygular. |
+| 3-5 | Rakamlar donar (Valuation + Financial). Excel Değişiklik Raporları gün 5'te bana ayrı ayrı teslim; birleştirmeyi ben yaparım. |
 | 5-8 | **Taslak 2:** yer tutucular dolar, kanıt tabloları eksiksiz, sayfa payına inilir. |
 | 8 | Çapraz okuma (bölüm 2.10). |
 | 8-9 | Semih son tutarlılık raporu; ben Business'ı yazar ve birleştiririm. |
